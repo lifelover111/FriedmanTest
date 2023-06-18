@@ -1,0 +1,15 @@
+C:\Users\Елисей\source\repos\VigenereTest\VigenereTest\bin\Debug\net6.0\VigenereTest.exe
+C:\Users\Елисей\source\repos\VigenereTest\VigenereTest\bin\Debug\net6.0\VigenereTest.deps.json
+C:\Users\Елисей\source\repos\VigenereTest\VigenereTest\bin\Debug\net6.0\VigenereTest.runtimeconfig.json
+C:\Users\Елисей\source\repos\VigenereTest\VigenereTest\bin\Debug\net6.0\VigenereTest.dll
+C:\Users\Елисей\source\repos\VigenereTest\VigenereTest\bin\Debug\net6.0\VigenereTest.pdb
+C:\Users\Елисей\source\repos\VigenereTest\VigenereTest\obj\Debug\net6.0\VigenereTest.csproj.AssemblyReference.cache
+C:\Users\Елисей\source\repos\VigenereTest\VigenereTest\obj\Debug\net6.0\VigenereTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елисей\source\repos\VigenereTest\VigenereTest\obj\Debug\net6.0\VigenereTest.AssemblyInfoInputs.cache
+C:\Users\Елисей\source\repos\VigenereTest\VigenereTest\obj\Debug\net6.0\VigenereTest.AssemblyInfo.cs
+C:\Users\Елисей\source\repos\VigenereTest\VigenereTest\obj\Debug\net6.0\VigenereTest.csproj.CoreCompileInputs.cache
+C:\Users\Елисей\source\repos\VigenereTest\VigenereTest\obj\Debug\net6.0\VigenereTest.dll
+C:\Users\Елисей\source\repos\VigenereTest\VigenereTest\obj\Debug\net6.0\refint\VigenereTest.dll
+C:\Users\Елисей\source\repos\VigenereTest\VigenereTest\obj\Debug\net6.0\VigenereTest.pdb
+C:\Users\Елисей\source\repos\VigenereTest\VigenereTest\obj\Debug\net6.0\VigenereTest.genruntimeconfig.cache
+C:\Users\Елисей\source\repos\VigenereTest\VigenereTest\obj\Debug\net6.0\ref\VigenereTest.dll
